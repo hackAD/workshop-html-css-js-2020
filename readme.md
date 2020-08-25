@@ -19,7 +19,7 @@ If HTML is the skeleton, CSS is the skin. CSS is what we use to make websites lo
 
 Going forward with the body metaphor JScript would be the muscles. JavaScript adds spice to our website, making it, here comes the buzzword, responsive!!! There are a lot of cool ways to utilize JavaScript, and with the advent of Node as a runtime environment, the use cases show no sign of lessening.
 ### Links
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
  pretty much all you need
  * https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
  really cool article, let's you ease into the confusion that frameworks present
